@@ -1,0 +1,133 @@
+/* html tags */
+body {
+  text-align: center;
+  background-image: url("images/beach1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #0f3057;
+  position: relative;
+
+
+}
+
+footer {
+  font-family: Tinos, serif;
+  background-color: #0f3057;
+  color: #99a8b2;
+  height: 50px;
+  margin: 0;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  border: 2px outset;
+  justify-content: center;
+
+}
+
+/* classes*/
+.container-fluid {
+  position: relative;
+  width: 80%;
+}
+
+.nav-image {
+  height: 150px
+}
+
+.title {
+  background-image: url("images/beach2.jpg");
+  background-size: cover;
+  background-position: right;
+  text-align: right;
+  height: 300px;
+  margin: 0;
+  padding: 30px;
+  border-radius: 30px;
+  border: 2px outset;
+}
+
+.title-h1 {
+  font-size: 60px;
+  text-shadow: 2px;
+}
+
+.title-img {
+  height: 300px;
+  width: 100%;
+}
+
+.title-para {
+  font-family: cursive;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.main-action {
+  justify-content: center;
+  background-color: transparent;
+  height: 500px;
+  border-radius: 30px;
+  width: auto;
+  margin: 0;
+}
+
+.consular {
+  background-image: url("images/consular officer.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 30px;
+  border: 2px outset;
+  height: 500px;
+  margin: 0;
+}
+
+.How-to{
+    font-family: 'Tinos', serif;
+  text-align: center;
+  padding: 20px;
+  border: 3px inset;
+  border-radius: 30px;
+    background-color: #408ab4;
+    height: 500px;
+
+
+}
+.tips{
+  text-align: left;
+  line-height: 2;
+  font-family: 'Tinos', serif;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.questions {
+  font-family: 'Tinos', serif;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border: 2px outset;
+  background-color: #408ab4;
+  margin-top: 0;
+  height: 700px;
+  width: 100%;
+  padding: 20px 0 20px 0;
+  
+}
+
+.carousel{
+  height: 550px;
+  width: 100%;
+}
+
+.d-block{
+  height: 500px;
+  width: 100%;
+
+}
+
+.foot{
+  padding: 0 30px 0 30px;
+}
